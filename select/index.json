@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Løve Rainbow",
+  "base_artist": "嵐",
+  "createdAt": "2026-02-11T13:47:51.137509Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What Is Love (Rainbow Beard mix)",
+      "artist": "Deee-Lite",
+      "has_synced": false,
+      "path": "select/01_What_Is_Love_(Rainbow_Beard_mix)_Deee-Lite.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Rainbow",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/02_Love_Rainbow_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What Is Love? (Rainbow Beard Mix)",
+      "artist": "Deee‐Lite",
+      "has_synced": false,
+      "path": "select/03_What_Is_Love__(Rainbow_Beard_Mix)_Deee‐Lite.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Rainbow",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/04_Love_Rainbow_嵐.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Rainbow",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/05_Love_Rainbow_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Løve Rainbow",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/06_Løve_Rainbow_嵐.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What Is Love (Rainbow Beard mix)",
+      "artist": "Deee‐Lite",
+      "has_synced": false,
+      "path": "select/07_What_Is_Love_(Rainbow_Beard_mix)_Deee‐Lite.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cold Love - Rainbow Kitten Surprise",
+      "artist": "Rainbow Kitten Surprise",
+      "has_synced": true,
+      "path": "select/08_Cold_Love_-_Rainbow_Kitten_Surprise_Rainbow_Kitten_Surprise.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What Is Love? (Rainbow Beard Mix)",
+      "artist": "Deee-Lite",
+      "has_synced": false,
+      "path": "select/09_What_Is_Love__(Rainbow_Beard_Mix)_Deee-Lite.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What Is Love？ (Rainbow Beard Mix)",
+      "artist": "Deee-Lite",
+      "has_synced": false,
+      "path": "select/10_What_Is_Love__(Rainbow_Beard_Mix)_Deee-Lite.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Løve Rainbow",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Løve_Rainbow_嵐.txt"
+    }
+  ]
+}
